@@ -11,6 +11,6 @@ Source: *4chan*
 1. Not ready
 2. Not ready
 3. Not Ready
-4. [Markov Chain Sentece Generator](https://github.com/paramendula/markov-csg) - Work In Progress
+4. [Markov Chain Sentence Generator](https://github.com/paramendula/markov-csg) - Work In Progress
    
 and etc
